@@ -3,7 +3,7 @@ import teacherImg from "../../assets/images/teacherImg01.jpg";
 import starIcon from "../../assets/images/Star.png";
 import { useState } from "react";
 import TeachersAbout from "./TeacherAbout";
-import Feedback from "./Feedback";
+import Feedbacks from "./Feedback";
 
 const TeacherDetails = () => {
   const [tab,setTab] = useState('about');
@@ -65,7 +65,7 @@ const TeacherDetails = () => {
               tab == 'about' && <TeachersAbout/>
             }
             {
-              tab == 'feedback' && <Feedback/>
+              tab == 'feedback' && <Feedbacks/>
             }
 
            </div>

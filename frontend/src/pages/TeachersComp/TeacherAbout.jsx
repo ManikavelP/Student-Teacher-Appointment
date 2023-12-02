@@ -63,6 +63,18 @@ const TeachersAbout = () => {
 
             </p>
           </li>
+          <li className="p-4 rounded bg-[#fff9ea] ">
+            <span className="text-yellowColor text-[15px] leading-6 font-semibold">
+              07-04-2010 - 08-12-2020
+            </span>
+            <p className="text-[16px] leading-6 font-medium text-textColor">
+              Mathematician
+            </p>
+            <p className="text-[14px] leading-5 font-medium text-textColor">
+            City Central Elementary School, New York
+
+            </p>
+          </li>
         </ul>
       </div>
     </div>
