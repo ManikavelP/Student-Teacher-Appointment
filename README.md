@@ -92,6 +92,38 @@ Contributions are welcome! Feel free to submit issues or pull requests to help i
 
 ##ScreenShots
 
+  ##Home Page
+![Screenshot](WebImages/Screenshot%202023-12-02%20142435.png)
+ 
+  ## Hero Section
+![Screenshot](WebImages/Screenshot%202023-12-02%20142452.png)
+
+  ## About Section
+![Screenshot](WebImages/Screenshot%202023-12-02%20142507.png)
+
+
+  ## Service Section
+![Screenshot](WebImages/Screenshot%202023-12-02%20142521.png)
+
+
+  ## Feature Section
+![Screenshot](WebImages/Screenshot%202023-12-02%20142535.png)
+
+
+  ## Teachers Section
+![Screenshot](WebImages/Screenshot%202023-12-02%20142547.png)
+
+
+  ## Footer Section 
+![Screenshot](WebImages/Screenshot%202023-12-02%20142604.png)
+
+
+
+
+
+
+
+
 
 
 
