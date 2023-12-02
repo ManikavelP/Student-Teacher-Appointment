@@ -22,7 +22,7 @@ The Student-Teacher Appointment System is a full-stack web application built wit
 
 ## Tech Stack
 
-![Alt Text](html.png)
+![Alt Text](TechStack/html.png)
 
 
 
