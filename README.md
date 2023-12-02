@@ -32,7 +32,6 @@ The Student-Teacher Appointment System is a full-stack web application built wit
 
 - **Express.js:** Backend framework for building RESTful APIs and handling server logic.
 
-- **Socket.io:** Enables real-time, bidirectional, and event-based communication.
 
 ## Installation
 
