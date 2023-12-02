@@ -13,7 +13,7 @@
     @apply max-w-full w-[1440px] sm:px-[10px] mx-auto px-2
   }
   .btn{
-    @apply bg-primaryColor py-[15px] px-[35px] rounded-[50px] text-white font-[600] mt-[38px]
+    @apply bg-primaryColor text-[15px] py-[15px] px-[35px] rounded-[50px] text-white font-[600] mt-[38px]
   }
   .heading{
     @apply text-[44px] leading-[54px] font-[700] text-headingColor
