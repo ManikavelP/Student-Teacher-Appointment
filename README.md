@@ -22,15 +22,9 @@ The Student-Teacher Appointment System is a full-stack web application built wit
 
 ## Tech Stack
 
-- **Vite:** Frontend build tool for React applications.
+![Alt Text](TechStack/html.png)
 
-- **React:** Frontend library for building a dynamic and interactive user interface.
 
-- **Node.js:** Server-side JavaScript runtime for building scalable and fast server applications.
-
-- **MongoDB:** NoSQL database for storing user profiles, appointments, and other data.
-
-- **Express.js:** Backend framework for building RESTful APIs and handling server logic.
 
 
 ## Installation
