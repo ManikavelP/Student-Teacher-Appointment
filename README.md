@@ -85,9 +85,6 @@ The Student-Teacher Appointment System is a full-stack web application built wit
 
     - Notifications will appear instantly for new appointment requests and confirmations.
 
-## Screenshots
-
-- Add screenshots or GIFs to showcase different sections of your application.
 
 ## Contributing
 
