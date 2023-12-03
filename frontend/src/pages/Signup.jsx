@@ -16,8 +16,13 @@ const Signup = () => {
   });
   let handleFileInput = async (event) => {
     const file = event.target.files[0];
-    console.log(file);
+    // Later this will use cloudinary to upload
   };
+
+  const submitHandler = async event =>{
+    event.preventDefault()
+  }
+   
 
   const handleInput = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
@@ -36,7 +41,7 @@ const Signup = () => {
               Create an <span className="text-primaryColor">account</span>
             </h3>
 
-            <form action="">
+            <form action="" onSubmit={submitHandler}>
               <div className="mb-5">
                 <input
                   type="text"

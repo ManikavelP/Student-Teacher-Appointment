@@ -49,7 +49,7 @@ const Login = () => {
             >
               Login
             </button>
-          </div>
+          </div >
           <p className="mt-5 text-textColor text-center text-[15px]">
             Don&apos; have an account?{" "}
             <Link
